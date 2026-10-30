@@ -1,0 +1,4 @@
+admin_user|ahmed@company.com|01055554444
+developer|yousef@gmail.com|01233332222
+devops_eng|hafiz@devops-team.xyz|01199998888
+guest_user|mona@unknown.net|01577776666
